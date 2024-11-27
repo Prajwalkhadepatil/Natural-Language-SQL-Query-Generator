@@ -1,4 +1,4 @@
-Author: vithushan sylvester <vsylvester@mitrai.com>
+Author: Prajwal Khadepatil
 
 # GPT-based SQL Generation API
 
